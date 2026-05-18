@@ -63,6 +63,21 @@ Excel Output Generation
 - Desktop Application Development
 
 ---
+## Project Screenshots
+
+### Project Structure
+![Project Structure](screenshots/folder-structure.png)
+
+### Application Home Screen
+![Application Home Screen](screenshots/main-screen.png)
+
+### Processing Workflow
+![Processing Workflow](screenshots/processing-screen.png)
+
+### Structured Excel Output
+![Structured Excel Output](screenshots/excel-output.png)
+
+
 
 ## Portfolio Note
 This repository is a public showcase version created for professional portfolio purposes.
